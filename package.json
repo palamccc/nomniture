@@ -21,10 +21,11 @@
     "test and target"
   ],
   "dependencies": {
-		"nodeunit": "latest",
-		"underscore" : "latest",
-		"xml2json" : "latest"
-	},
+    "nodeunit": "latest",
+    "request": "^2.40.0",
+    "underscore": "latest",
+    "xml2json": "latest"
+  },
   "bundledDependencies": [
     "nodeunit",
     "underscore",
